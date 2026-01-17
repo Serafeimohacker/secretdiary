@@ -1,0 +1,7 @@
+{
+  "name": " ZenJournal - AI Mood & Memory Tracker",
+  "description": "A beautiful, private daily journal with interactive mood tracking, AI-powered emotional insights, and secure memory storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
